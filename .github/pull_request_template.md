@@ -40,6 +40,8 @@ See https://github.com/PRMAssist/prmassist-infrastructure/blob/master/docs/contr
 
 ---
 
+- [ ] **Light route**: docs only, or 20 lines or fewer of comments, copy or config values with no logic. Tick it to skip the AI review and front-end evidence ([rules](https://github.com/PRMAssist/prmassist-infrastructure/blob/master/docs/contributing.md#light-route)).
+
 - [ ] I have run this and pasted the output above
 - [ ] Front end only: screenshots and a screen recording are above, using test data
 - [ ] CI is green, and this PR targets `master` with no conflicts
