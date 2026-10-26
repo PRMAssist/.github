@@ -44,6 +44,7 @@ See https://github.com/PRMAssist/prmassist-infrastructure/blob/master/docs/contr
 
 - [ ] I have run this and pasted the output above
 - [ ] Front end only: screenshots and a screen recording are above, using test data
+- [ ] User docs: updated in `docs/user/` for anything a user sees that changed, or not needed (say why above) ([how](https://github.com/PRMAssist/prmassist-infrastructure/blob/master/docs/user-documentation.md))
 - [ ] CI is green, and this PR targets `master` with no conflicts
 - [ ] I have read my own diff, every line, and can explain each change
 - [ ] An AI code review ran on the final commit, and every finding above has a disposition
